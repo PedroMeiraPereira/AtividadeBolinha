@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aula03</string>
+
+    <string name="loremipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis
+        , mauris id varius lacinia, libero dui sollicitudin felis, sit amet molestie ipsum lorem ac neque.
+        Sed elit erat, fringilla sit amet ultricies vitae, faucibus sit amet sapien. Praesent facilisis quam
+        in ipsum scelerisque, ut imperdiet arcu cursus.\n\n
+
+Vestibulum eget placerat leo. Nunc pellentesque dui vel nibh iaculis, sit amet euismod odio pretium.
+        Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        Nam sit amet eros rhoncus, hendrerit nibh at, consectetur leo. Nullam semper aliquet eros, vel tincidunt magna venenatis eget.
+        Duis accumsan sem purus, sit amet pulvinar sapien rhoncus vel. Proin blandit arcu ac nibh lacinia consectetur.
+        Donec sit amet dapibus ante. Ut suscipit sem ut tortor tincidunt, sed interdum enim ullamcorper.\n\n
+
+Praesent eu nibh sit amet nunc luctus ullamcorper vel ac sem. Aliquam gravida massa ante, non congue massa lobortis a.
+        Integer nibh arcu, cursus sed massa vel, accumsan commodo libero. Maecenas tempor id nulla in feugiat.
+        Suspendisse sed vehicula lacus. Mauris a consequat ipsum.</string>
+
+    <string name="loremipsum2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis
+        , mauris id varius lacinia, libero dui sollicitudin felis, sit amet molestie ipsum lorem ac neque.
+        Sed elit erat, fringilla sit amet ultricies vitae, faucibus sit amet sapien. Praesent facilisis quam
+        in ipsum scelerisque, ut imperdiet arcu cursus.\n\n
+
+Vestibulum eget placerat leo. Nunc pellentesque dui vel nibh iaculis, sit amet euismod odio pretium.
+        Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        Nam sit amet eros rhoncus, hendrerit nibh at, consectetur leo. Nullam semper aliquet eros, vel tincidunt magna venenatis eget.
+        Duis accumsan sem purus, sit amet pulvinar sapien rhoncus vel. Proin blandit arcu ac nibh lacinia consectetur.
+        Donec sit amet dapibus ante. Ut suscipit sem ut tortor tincidunt, sed interdum enim ullamcorper.\n\n
+
+Praesent eu nibh sit amet nunc luctus ullamcorper vel ac sem. Aliquam gravida massa ante, non congue massa lobortis a.
+        Integer nibh arcu, cursus sed massa vel, accumsan commodo libero. Maecenas tempor id nulla in feugiat.
+        Suspendisse sed vehicula lacus. Mauris a consequat ipsum.Praesent eu nibh sit amet nunc luctus ullamcorper vel ac sem. Aliquam gravida massa ante, non congue massa lobortis a.
+        Integer nibh arcu, cursus sed massa vel, accumsan commodo libero. Maecenas tempor id nulla in feugiat.
+        Suspendisse sed vehicula lacus.accumsan commodo libero. Maecenas tempor id nulla in feugiat.
+        Suspendisse sed vehicula lacus.</string>
+</resources>
